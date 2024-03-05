@@ -64,7 +64,7 @@ Users should be able to:
 ## Author
 
 - Website - [ Souuheib Aloui ] (https://github.com/Souheib-Aloui)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Souheib-Aloui)
+- Frontend Mentor - [@Souheib-Aloui](https://www.frontendmentor.io/profile/Souheib-Aloui)
 - Twitter - [@AlouiSouheib](https://www.twitter.com/AlouiSouheib)
 
 
